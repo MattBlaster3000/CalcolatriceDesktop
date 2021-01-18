@@ -1,0 +1,1 @@
+MsgBox("operazioni terminate con successo")
