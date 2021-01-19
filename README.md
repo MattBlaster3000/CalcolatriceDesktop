@@ -1,7 +1,7 @@
 # CalcolatriceDesktop
 ### Download ```(beta)```
 Download latest version:\
-[Download](https://github.com/MattBlaster3000/CalcolatriceDesktop/releases)
+[Download](https://github.com/MattBlaster3000/CalcolatriceDesktop/releases)\
 [My website](https://mtteo08cassetta.editorx.io/mattblaster)
 ### Functionality
 This calculator has all the features of a regular calculator, but it has many other features as well.\
