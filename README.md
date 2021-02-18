@@ -1,4 +1,5 @@
 # CalcolatriceDesktop (Old Version)
+## [Click Here](https://github.com/MattBlaster3000/NectoCalculator_Desktop) to visist the new version.
 ### Download ```(beta)```
 Download latest version:\
 [Download](https://github.com/MattBlaster3000/CalcolatriceDesktop/releases)\
