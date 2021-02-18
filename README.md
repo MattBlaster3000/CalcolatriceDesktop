@@ -1,4 +1,4 @@
-# CalcolatriceDesktop
+# CalcolatriceDesktop (Old Version)
 ### Download ```(beta)```
 Download latest version:\
 [Download](https://github.com/MattBlaster3000/CalcolatriceDesktop/releases)\
